@@ -15,7 +15,7 @@
   <ul>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/HTML%20Tags.md">HTML Tags</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/LayoutTag.md">레이아웃을 위한 태그</a></li>
-    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/HTML%20%EA%B5%AC%EC%A1%B0%EC%84%A4%EA%B3%84.md"></a>HTML 구조설계</li>
+    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/HTML%20%EA%B5%AC%EC%A1%B0%EC%84%A4%EA%B3%84.md"></a>HTML 구조설계</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
