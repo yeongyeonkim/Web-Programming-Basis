@@ -16,8 +16,8 @@
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/HTML%20Tags.md">HTML Tags</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/LayoutTag.md">레이아웃을 위한 태그</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/HTML%20%EA%B5%AC%EC%A1%B0%EC%84%A4%EA%B3%84.md">HTML 구조설계</a></li>
-    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/class%20%EC%99%80%20id%20%EC%86%8D%EC%84%B1.md">id와 class</a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/class%20%EC%99%80%20id%20%EC%86%8D%EC%84%B1.md">ID와 CLASS</a></li>
+    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/Css1.md">CSS 선언방법</a></li>
     <li><a href=""></a></li>
   </ul>
   </li>  
