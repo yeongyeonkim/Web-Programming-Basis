@@ -1,4 +1,4 @@
-<b>[CSS를 HTML안에 선언하는 방식은 크게 3가지가 있다.]</b>
+<h2>[CSS를 HTML안에 선언하는 방식은 크게 3가지가 있다.]</h2>
 
 1. inline
 2. internal
