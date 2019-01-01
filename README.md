@@ -20,15 +20,15 @@
     </ul>
   </li>
   
-  <li>
-  <ul>
+  <li>3. CSS - FE
+   <ul>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/Css1.md">CSS 선언방법</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/%EC%83%81%EC%86%8D%EA%B3%BC%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md"></a></li>
     <li><a href=""></a>CSS Selector</li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
-  </ul>
+    </ul>
   </li>  
   
   </ul>
