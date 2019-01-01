@@ -1,5 +1,7 @@
 # [float 기반 샘플 화면 레이아웃 구성]
 
+<img src="https://user-images.githubusercontent.com/45118806/50571874-c4b83300-0df7-11e9-800e-c77c6213f378.PNG"></img>
+
 <h3>HTML</h3>
 
 ```
@@ -79,5 +81,9 @@ footer {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/45118806/50571874-c4b83300-0df7-11e9-800e-c77c6213f378.PNG"></img>
+left, right를 둘다 float:left 하면 메뉴들이 겹치게 된다.<br>
+footer에 clear:left(both도 가능)를 써서 footer가 예상과 다른 결과가 나오는 것을 해결 가능.<p></p>
 
+자식이 float인 경우엔 자신의 자식으로 인식하지 않기 때문에<br>
+background-color가 제대로 적용이 되지 않을 수 있다.<br>
+이때 <b>overflow:auto</b>를 사용해서 해결할 수 있다.
