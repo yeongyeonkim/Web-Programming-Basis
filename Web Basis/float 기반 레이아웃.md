@@ -37,34 +37,23 @@
 li {
   list-style:none;
 }
-
 header{
   background-color : #eee;
   
 }
-
 #wrap {
-  
   overflow:auto;
   margin:20px 0px;
 }
-
-footer {
-  background-color : #eee;
-  clear:left;
-}
-
 .left, .right, .realright {
   float:left;
   height: 200px;
   }
-
 .left{
   width:17%;
   margin-right:3%;
   background-color : #47c;
 }
-
 .right {
   width:60%;
   text-align:center;
@@ -75,16 +64,18 @@ footer {
   margin-left:3%;
   background-color:#67c;
 }
-
 .right > h2 {
   position:relative;
 }
-
 .right .emoticon {
   position : absolute;
   top:0px;
   right:5%;
   color:#fff;
+}
+footer {
+  background-color : #eee;
+  clear:left;
 }
 ```
 
