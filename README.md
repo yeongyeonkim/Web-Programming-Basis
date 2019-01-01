@@ -34,7 +34,7 @@
   </li>  
   <li>4. 개발환경 설정 - BE
     <ul>
-      <li><a href="">JDK 설치</a></li>
+      <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/JDK%20install.md">JDK 설치</a></li>
       <li><a href="">환결설정</a></li>
       <li><a href=""></a></li>
       <li><a href=""></a></li>
