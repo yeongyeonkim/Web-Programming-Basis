@@ -27,7 +27,9 @@
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/CSS%20Selector.md">CSS Selector</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/CSS%20Style%20%EB%B3%80%EA%B2%BD.md">CSS Style</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/CSS%20Layout.md">CSS Layout</a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/float%20%EA%B8%B0%EB%B0%98%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83.md">float기반 레이아웃</a></li>
+     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/flex.md">flex 개념과 실습</a></li>
+     <li><a href="">디버깅-HTML-CSS</a></li>
     </ul>
   </li>  
   
