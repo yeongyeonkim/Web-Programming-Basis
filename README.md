@@ -24,7 +24,7 @@
    <ul>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/Css1.md">CSS 선언방법</a></li>
     <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/%EC%83%81%EC%86%8D%EA%B3%BC%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md">상속과 우선순위</a></li>
-    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/CSS%20Selector.md"></a>CSS Selector</li>
+    <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/CSS%20Selector.md">CSS Selector</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
