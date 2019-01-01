@@ -23,7 +23,7 @@ em은 기본 설정값에 대한 배수 값으로 설정된다.
 * background-image, position, repeat 등의 속성
 * background : #0000ff url(".../gif") no-repeat center top; //한 줄로 정의 가능
 
-<h3>글씨체/글꼴
+<h3>글씨체/글꼴</
 
 * font-family :"Gulim";
 * font-family : monospace;
