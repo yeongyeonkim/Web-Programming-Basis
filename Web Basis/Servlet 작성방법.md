@@ -35,6 +35,8 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 }
 ```
 
+<img src="https://user-images.githubusercontent.com/45118806/50592987-d5d97080-0ed9-11e9-9049-328053ee66fc.PNG"></img>
+
 출력할 내용을 적고난 뒤 사용을 마친 객체 out을 close()해준다.<br>
 그리고 실행시키면 원하는 결과의 웹이 보여진다.
 
