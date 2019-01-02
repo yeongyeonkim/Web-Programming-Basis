@@ -44,8 +44,8 @@
   <li>5. Servlet - BE
     <ul>
       <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/Servlet%20%EC%9D%B4%EB%9E%80%3F.md">Servlet 이란?</a></li>
-      <li><a href="">Servlet 작성 방법</a></li>
-      <li><a href=""></a></li>
+      <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/Servlet%20%EC%9E%91%EC%84%B1%EB%B0%A9%EB%B2%95.md">Servlet 작성 방법</a></li>
+      <li><a href="">Servlet 라이프 </a></li>
       <li><a href=""></a></li>
     </ul>
   </li>
