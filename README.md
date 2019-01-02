@@ -35,10 +35,19 @@
   <li>4. 개발환경 설정 - BE
     <ul>
       <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/JDK%20install.md">JDK 설치</a></li>
+      <li>환경설정하기</li>
+      <li>이클립스 다운받기 및 설치하고 인코딩 설정하기</li>
+      <li>Tomcat 다운받기 및 설치하기</li>
       <li><a href="https://github.com/yeongyeonkim/Web-Programming-Basis/blob/master/Web%20Basis/%EC%84%9C%EB%B8%94%EB%A6%BF%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EB%B0%8F%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0.md">HelloWorld 서블릿 컴파일 및 실행하기</a></li>
+    </ul>
+  </li> 
+  <li>5. Servlet - BE
+    <ul>
+      <li><a href="">Servlet 이란?</a></li>
+      <li><a href=""></a></li>
       <li><a href=""></a></li>
       <li><a href=""></a></li>
     </ul>
-  </li> 
+  </li>
   
   </ul>
